@@ -1,0 +1,1 @@
+declare module "graphql-schema-linter/lib/validation_error"

@@ -1,0 +1,13 @@
+# vscode files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# jetbrains
+.idea/
+
+# npm
+node_modules
+
+# generated output
+/rules
